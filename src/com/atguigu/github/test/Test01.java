@@ -8,6 +8,8 @@ public class Test01 {
 		System.out.println("hello github");
 		System.out.println("hello 回应");
 		System.out.println("update 01");
+		System.out.println("123");
+		System.out.println("122");
 	}
 }
 
