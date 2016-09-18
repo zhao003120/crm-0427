@@ -10,5 +10,6 @@ public class Test01 {
 		System.out.println("122");
 		
 		System.out.println("aaaa");
+		Sts=
 	}
 }
