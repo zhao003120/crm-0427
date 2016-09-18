@@ -8,8 +8,7 @@ public class Test01 {
 		System.out.println("update 01");
 		System.out.println("123");
 		System.out.println("122");
-		
 		System.out.println("aaaa");
-		Sts=
+		System.out.println("bbbb");
 	}
 }
